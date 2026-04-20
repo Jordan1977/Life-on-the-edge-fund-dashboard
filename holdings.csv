@@ -1,0 +1,9 @@
+ticker,name,quantity,buy_price,sector,theme,risk_bucket,inception_date
+AAPL,Apple,10,150,Technology,AI,GROWTH,2025-03-06
+MSFT,Microsoft,8,280,Technology,Cloud,GROWTH,2025-03-06
+NVDA,Nvidia,6,400,Technology,AI,GROWTH,2025-03-06
+AMZN,Amazon,5,120,Consumer,Cloud,GROWTH,2025-03-06
+GOOGL,Alphabet,4,130,Technology,AI,GROWTH,2025-03-06
+META,Meta,3,250,Technology,AI,GROWTH,2025-03-06
+TSLA,Tesla,2,200,Automotive,EV,SPECULATIVE,2025-03-06
+COIN,Coinbase,3,100,Finance,Crypto,SPECULATIVE,2025-03-06
